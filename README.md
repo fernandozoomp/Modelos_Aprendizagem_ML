@@ -20,7 +20,7 @@ Os modelos estão divididos em:
   
   `2.2 - Associação`
 
-`3 - Aprendizagem por Reforço (em breve)`
+
 
 Dentro de cada diretório, você também encontrará as bases utilizadas para realizar cada modelo. 
 
